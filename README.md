@@ -6,4 +6,4 @@ Game created in Unity. My game is based on game named Warblade, our goal is to t
 ![alt text](https://github.com/Miatosz/StarWarrior-Game/blob/master/2.JPG?raw=true)
 
 
-Graphics from https://opengameart.org/
+Sprites from https://opengameart.org/
